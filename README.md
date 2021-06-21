@@ -34,6 +34,6 @@ Dispositivo con acceso a internet
 Este proyecto está bajo la Licencia CREATIVE COMMONS cc Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) - mira el archivo [LICENSE](https://creativecommons.org/licenses/by-nc-nd/4.0/) para detalles
 
 ## Enlace de interés :eyes:
-* Tablero en trello: 
-* Prototipos del diseño: 
-* Funcionamiento del programa: :movie_camera: [Video](https://drive.google.com/file/d/10mUA310CDmfgCbL5GEKGMRihTRjYPcnw/view)
+* Trello: [Tablero](https://trello.com/b/5VaZVU0z/vetapp)📋
+* Prototipos del diseño: [Imagenes]()🎨
+* Funcionamiento del programa: [Video](https://drive.google.com/file/d/10mUA310CDmfgCbL5GEKGMRihTRjYPcnw/view)🎥
