@@ -1,10 +1,10 @@
 # VetApp :cat2::dog2::bird::fish:
 
-_El presente repositorio consta de una aplicación web, para una veterinaria en el cual se va a tener registro de todas las mascotas, veterinarios y procedimientos que los veterinarios hicieron o alguna descripción de lo que se hizo en la consulta a las mascotas para tener un mayor control de los mismos._
+_El presente repositorio consta de una aplicación web, para una veterinaria en el cual se va a tener registro de todas las mascotas, veterinarios y procedimientos que los veterinarios hicieron o alguna descripción de lo que se hizo en la consulta a las mascotas para tener un mayor control de estos._
 
 ## Comenzando 🚀
-* [Manual Tecnico](https://#)
-* [Demo de la aplicacion](https://vetappsv.netlify.app/#/)
+* [Documento](https://udbedu-my.sharepoint.com/:b:/g/personal/ms180761_alumno_udb_edu_sv/EQfY0OjphmxBhn3lj_lCoCUBAKKFeSG1B0SaG274n3eJSg?e=owtkcV)
+* [Demo de la aplicación](https://vetappsv.netlify.app/#/)
 
 
 ```
@@ -35,5 +35,5 @@ Este proyecto está bajo la Licencia CREATIVE COMMONS cc Attribution-NonCommerci
 
 ## Enlace de interés :eyes:
 * Trello: [Tablero](https://trello.com/b/5VaZVU0z/vetapp)📋
-* Prototipos del diseño: [Imagenes]()🎨
+* Prototipos del diseño: [Imagenes](https://drive.google.com/file/d/17f5wlL5cX7OWPezDR5YjqaRtEDrfFKl0/view?usp=sharing)🎨
 * Funcionamiento del programa: [Video](https://drive.google.com/file/d/10mUA310CDmfgCbL5GEKGMRihTRjYPcnw/view)🎥
